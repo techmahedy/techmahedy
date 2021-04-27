@@ -1,4 +1,4 @@
-### Hi there, I'm Mahedi - owner of [codecheef][website] 👋
+### Hi there, I'm Mahedi - Owner of [CodeCheef][website] 👋
 
 [![Website](https://img.shields.io/website?label=codecheef.org&style=for-the-badge&url=https%3A%2F%2Fcodecheef.org)](https://www.codecheef.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/metacentric_sr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/metacentric_sr)
