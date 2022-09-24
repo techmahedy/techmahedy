@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=codecheef.org&style=for-the-badge&url=https%3A%2F%2Fcodecheef.org)](https://www.codecheef.org)
 [![Website](https://img.shields.io/website?label=laravelia.com&style=for-the-badge&url=https%3A%2F%2Flaravelia.com)](https://www.laravelia.com)
-[![Website](https://img.shields.io/website?label=ceptruck.com&style=for-the-badge&url=https%3A%2F%2Fceptruckcom)](https://www.ceptruck.com)
+[![Website](https://img.shields.io/website?label=ceptruck.com&style=for-the-badge&url=https%3A%2F%2Fceptruck.com)](https://www.ceptruck.com)
 
 ## I'm a good son of my father and mother!!
 
