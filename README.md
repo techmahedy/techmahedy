@@ -1,7 +1,8 @@
 ### Hi there, I'm Mahedi - Owner of [CodeCheef][website] 👋
 
 [![Website](https://img.shields.io/website?label=codecheef.org&style=for-the-badge&url=https%3A%2F%2Fcodecheef.org)](https://www.codecheef.org)
-[![Twitter Follow](https://img.shields.io/twitter/follow/metacentric_sr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/metacentric_sr)
+[![Website](https://img.shields.io/website?label=laravelia.com&style=for-the-badge&url=https%3A%2F%2Flaravelia.com)](https://www.laravelia.com)
+[![Website](https://img.shields.io/website?label=ceptruck.com&style=for-the-badge&url=https%3A%2F%2Fceptruckcom)](https://www.ceptruck.com)
 
 ## I'm a good son of my father and mother!!
 
@@ -48,13 +49,6 @@
 ➡️ [more blog posts...](https://www.codecheef.org)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="techmahedy's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=techmahedy&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.codecheef.org
 [youtube]: https://www.youtube.com/channel/UCzmJ_0Ef9EE-NS7w82zez_A/featured
