@@ -42,11 +42,13 @@
 - [Laravel 8.x Queues Example with Redis and Horizon](https://www.codecheef.org/article/laravel-queues-example-using-redis-and-horizon)
 - [Avoid Pivot Table and Use Json Column in Laravel](https://www.codecheef.org/article/avoid-pivot-table-and-use-json-column-in-laravel)
 - [Building a REST API with Laravel Microservices Lumen](https://www.codecheef.org/article/laravel-6-building-a-rest-api-with-lumen)
-- [Laravel 8.x Rest API CRUD Example with JWT Auth](https://www.codecheef.org/article/laravel-6-rest-api-with-jwt-authentication-with-crud)
-- [Laravel Event Broadcasting Using Socket.io with Redis](https://www.codecheef.org/article/laravel-event-broadcasting-using-socketio-with-redis)
+- [Why And When To Use Interface In Laravel Application](https://www.laravelia.com/post/why-and-when-to-use-interface-in-laravel-application)
+- [Central Place Of Laravel | Service Provider Explanation](https://www.laravelia.com/post/central-place-of-laravel-service-provider-explanation)
+- [What Is Service Container And When To Use It In Laravel](https://www.laravelia.com/post/what-is-service-container-and-when-to-use-it-in-laravel)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.codecheef.org)
+➡️ [more blog posts...](https://www.laravelia.com)
 
 ---
 
