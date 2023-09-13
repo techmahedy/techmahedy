@@ -1,4 +1,4 @@
-### Hi there, I'm Mahedi - Owner of [CodeCheef][website] 👋
+### Hi there, I'm Mahedi - Owner of [Laravelia][website] 👋
 
 [![Website](https://img.shields.io/website?label=codecheef.org&style=for-the-badge&url=https%3A%2F%2Fcodecheef.org)](https://www.codecheef.org)
 [![Website](https://img.shields.io/website?label=laravelia.com&style=for-the-badge&url=https%3A%2F%2Flaravelia.com)](https://www.laravelia.com)
@@ -52,7 +52,7 @@
 
 ---
 
-[website]: https://www.codecheef.org
+[website]: https://www.laravelia.com
 [youtube]: https://www.youtube.com/channel/UCzmJ_0Ef9EE-NS7w82zez_A/featured
 [twitter]: https://twitter.com/metacentric_sr
 [linkedin]: https://www.linkedin.com/in/mahedi-hasan-durjoy-9bb880175/
