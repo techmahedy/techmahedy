@@ -7,8 +7,8 @@
 ## I'm a good son of my father and mother!!
 
 - 🔭 Hi, I’m @techmahedy
-- 🌱 I’m currently learning and working on react js 🤣
-- 👯 I’m looking to collaborate some big projects
+- 🌱 I’m a PHP & Laravel Specialist and Linux lover.🤣
+- 👯 I’m looking to collaborate on some big projects
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to learn history
 
