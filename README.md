@@ -40,7 +40,6 @@
 - [Why And When To Use Interface In Laravel Application](https://www.laravelia.com/post/why-and-when-to-use-interface-in-laravel-application)
 - [Laravel 10 New Feature - Laravel Pennant Overview](https://www.laravelia.com/post/laravel-10-new-feature-laravel-pennant-overview)
 - [Lumen 10 JWT API Authentication Tutorial](https://www.laravelia.com/post/lumen-10-jwt-api-authentication-tutorial)
-- [Why And When To Use Interface In Laravel Application](https://www.laravelia.com/post/why-and-when-to-use-interface-in-laravel-application)
 - [Central Place Of Laravel | Service Provider Explanation](https://www.laravelia.com/post/central-place-of-laravel-service-provider-explanation)
 - [What Is Service Container And When To Use It In Laravel](https://www.laravelia.com/post/what-is-service-container-and-when-to-use-it-in-laravel)
 <!-- BLOG-POST-LIST:END -->
