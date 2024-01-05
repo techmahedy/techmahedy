@@ -37,15 +37,14 @@
 ### 📕 Some Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel 8.x Queues Example with Redis and Horizon](https://www.codecheef.org/article/laravel-queues-example-using-redis-and-horizon)
-- [Avoid Pivot Table and Use Json Column in Laravel](https://www.codecheef.org/article/avoid-pivot-table-and-use-json-column-in-laravel)
-- [Building a REST API with Laravel Microservices Lumen](https://www.codecheef.org/article/laravel-6-building-a-rest-api-with-lumen)
+- [Why And When To Use Interface In Laravel Application](https://www.laravelia.com/post/why-and-when-to-use-interface-in-laravel-application)
+- [Laravel 10 New Feature - Laravel Pennant Overview](https://www.laravelia.com/post/laravel-10-new-feature-laravel-pennant-overview)
+- [Lumen 10 JWT API Authentication Tutorial](https://www.laravelia.com/post/lumen-10-jwt-api-authentication-tutorial)
 - [Why And When To Use Interface In Laravel Application](https://www.laravelia.com/post/why-and-when-to-use-interface-in-laravel-application)
 - [Central Place Of Laravel | Service Provider Explanation](https://www.laravelia.com/post/central-place-of-laravel-service-provider-explanation)
 - [What Is Service Container And When To Use It In Laravel](https://www.laravelia.com/post/what-is-service-container-and-when-to-use-it-in-laravel)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.codecheef.org)
 ➡️ [more blog posts...](https://www.laravelia.com)
 
 ---
@@ -54,7 +53,7 @@
 [youtube]: https://www.youtube.com/channel/UCzmJ_0Ef9EE-NS7w82zez_A/featured
 [twitter]: https://twitter.com/metacentric_sr
 [linkedin]: https://www.linkedin.com/in/mahedi-hasan-durjoy-9bb880175/
-[laravel]: https://www.codecheef.org/article/tag/laravel
+[laravel]: https://www.laravelia.com/tag/laravel
 [vue]: https://www.codecheef.org/article/tag/vue-js
 [react]: https://www.codecheef.org/article/tag/react-js
 [jquery]: https://www.codecheef.org/article/tag/jquery
