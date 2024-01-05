@@ -7,7 +7,7 @@
 - 🔭 Hi, I’m @techmahedy
 - 🌱 I’m a PHP & Laravel Specialist and Linux lover.🤣
 - 👯 I’m looking to collaborate on some big projects
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to learn history
 
 ### Connect with me:
