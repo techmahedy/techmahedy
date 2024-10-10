@@ -43,17 +43,12 @@
 
 ---
 
-[website]: https://www.laravelia.com
+[website]: https://www.dailycomputerscience.com
 [youtube]: https://www.youtube.com/channel/UCzmJ_0Ef9EE-NS7w82zez_A/featured
 [twitter]: https://twitter.com/metacentric_sr
 [linkedin]: https://www.linkedin.com/in/mahedi-hasan-durjoy-9bb880175/
-[laravel]: https://www.laravelia.com/tag/laravel
-[vue]: https://www.codecheef.org/article/tag/vue-js
-[react]: https://www.codecheef.org/article/tag/react-js
-[jquery]: https://www.codecheef.org/article/tag/jquery
-[javascript]: https://www.codecheef.org/article/tag/javascript
-[redux]: https://www.codecheef.org/article/tag/react-js
-[git]: https://www.codecheef.org/article/tag/git
-[linux]: https://www.codecheef.org/article/tag/linux
+[laravel]: #
+[javascript]: #
+[linux]: #
 
 
