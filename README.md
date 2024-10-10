@@ -1,6 +1,6 @@
-### Hi there, I'm Mahedi - Owner of [Laravelia][website] 👋
+### Hi there, I'm Mahedi - Owner of [dailycomputerscience][website] 👋
 
-[![Website](https://img.shields.io/website?label=laravelia.com&style=for-the-badge&url=https%3A%2F%2Flaravelia.com)](https://www.laravelia.com)
+[![Website](https://img.shields.io/website?label=dailycomputerscience.com&style=for-the-badge&url=https%3A%2F%2Fdailycomputerscience.com)](https://www.dailycomputerscience.com)
 
 ## I'm a good son of my father and mother!!
 
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codecheef.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codecheef.org | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="dailycomputerscience.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="dailycomputerscience.org | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="metacentric_sr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codecheef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -22,12 +22,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][laravel]
-[<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jquery]
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][redux]
-[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 <br />
 <br />
@@ -37,14 +32,14 @@
 ### 📕 Some Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why And When To Use Interface In Laravel Application](https://www.laravelia.com/post/why-and-when-to-use-interface-in-laravel-application)
-- [Laravel 10 New Feature - Laravel Pennant Overview](https://www.laravelia.com/post/laravel-10-new-feature-laravel-pennant-overview)
-- [Lumen 10 JWT API Authentication Tutorial](https://www.laravelia.com/post/lumen-10-jwt-api-authentication-tutorial)
-- [Central Place Of Laravel | Service Provider Explanation](https://www.laravelia.com/post/central-place-of-laravel-service-provider-explanation)
-- [What Is Service Container And When To Use It In Laravel](https://www.laravelia.com/post/what-is-service-container-and-when-to-use-it-in-laravel)
+- [How to Set Up and Implement Apache Kafka in PHP](https://www.dailycomputerscience.com/post/how-to-set-up-and-implement-apache-kafka-in-php)
+- [Redis in PHP - Advanced Caching with Pipelines](https://www.dailycomputerscience.com/post/redis-in-php-advanced-caching-with-pipelines)
+- [Redis Clustering in PHP - Distribute Load Across Multiple Servers](https://www.dailycomputerscience.com/post/redis-clustering-in-php-distribute-load-across-multiple-servers)
+- [Efficient Data Handling with Generators in PHP](https://www.dailycomputerscience.com/post/efficient-data-handling-with-php-generators-in-modern-php)
+- [PHP Fibers - Concurrency in Modern PHP](https://www.dailycomputerscience.com/post/php-fibers-concurrency-in-modern-php)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.laravelia.com)
+➡️ [more blog posts...](https://www.dailycomputerscience.com)
 
 ---
 
