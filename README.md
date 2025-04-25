@@ -1,4 +1,4 @@
-## Creator of [Doppar]: (https://github.com/doppar/doppar)
+## Creator of [Doppar](https://github.com/doppar/doppar)
 
 <p align="center">
     <a href="https://laravel.com" target="_blank">
@@ -18,6 +18,8 @@
 > **Note:** This repository contains the core code of the Doppar framework. If you want to build an application using Doppar, visit the main [Doppar repository](https://github.com/doppar/doppar).
 
 Doppar is a PHP framework built to revolutionize the way developers create robust, scalable, and efficient web applications, specifically for developing small scale PHP web applications.
+
+[Doppar]: (https://github.com/doppar/doppar)
 
 
 
